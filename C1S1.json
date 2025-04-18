@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "Which of the following properties of a particle significantly affects the physical, chemical& biological properties of the drug ?",
+  "A": "Density",
+  "Answer": "Size",
+  "B": "Sedimentation",
+  "C": "Size",
+  "D": "Surface area",
+  "Image": "https:\/\/pbs.twimg.com\/media\/DsmnHC4XgAAAFGW.jpg",
+  "Explaination": "This is the explaination of the answer, this is an optional feature. If explaination is added in the database it will automatically shows and if not added then it will not shown."
+ },
+ {
+  "Question": "When coulter-counter apparatus is employed for powder analysis , the following criterion is important",
+  "A": "Dispersion medium should be coloured",
+  "Answer": "Dispersion medium should be conducting",
+  "B": "Dispersion medium should be conducting",
+  "C": "Suspended particles should be charged",
+  "D": "Suspended particle should be spherical",
+  "Image": "https:\/\/www.myneobuxportal.com\/wp-content\/uploads\/2021\/11\/math-quiz-4\/6.jpg?ezimgfmt=rs:392x187\/rscb2\/ngcb2\/notWebP",
+  "Explaination": "This is the explaination of the answer, this is an optional feature. If explaination is added in the database it will automatically shows and if not added then it will not shown."
+ },
+ {
+  "Question": "The type of particle diameter that is obtained by microscope method of evaluation is",
+  "A": "Projected",
+  "Answer": "Projected",
+  "B": "Stokes",
+  "C": "Volume",
+  "D": "Volume-surface",
+  "Image": "https:\/\/media.proprofs.com\/images\/QM\/user_images\/2503852\/New%20Project%20(39)(244).jpg",
+  "Explaination": "This is the explaination of the answer, this is an optional feature. If explaination is added in the database it will automatically shows and if not added then it will not shown."
+ },
+ {
+  "Question": "Parenteral drug products undergo what type of testing to ensure that all microorganisms have been destroyed or removed ?",
+  "A": "Clarity testing",
+  "Answer": "Sterility testing",
+  "B": "Pyrogen testing",
+  "C": "Leaker testing",
+  "D": "Sterility testing",
+  "Image": "https:\/\/media.proprofs.com\/images\/QM\/user_images\/2503852\/New%20Project%20(6)(65).jpg",
+  "Explaination": "This is the explaination of the answer, this is an optional feature. If explaination is added in the database it will automatically shows and if not added then it will not shown."
+ },
+ {
+  "Question": "Pharmacopieal tests for ensuring the quality of drug products in tablet form include all of the following EXCEPT",
+  "A": "Disintegration",
+  "Answer": "Hardness & friability",
+  "B": "Dissolution",
+  "C": "Hardness & friability",
+  "D": "Content uniformity",
+  "Image": "https:\/\/media.proprofs.com\/images\/QM\/user_images\/2503852\/New%20Project%20(76)(179).jpg",
+  "Explaination": "This is the explaination of the answer, this is an optional feature. If explaination is added in the database it will automatically shows and if not added then it will not shown."
+ },
+ {
+  "Question": "When non polar substances dissolved in polar solvent using surfactants, the process is called",
+  "A": "HLB",
+  "Answer": "Solubilization",
+  "B": "Solubilization",
+  "C": "Emulsification",
+  "D": "Gelatination",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Tablets can be coated with various polymeric agents, which dosage form is formulated to dissolve in the intestine rather than the stomach",
+  "A": "Sublingual",
+  "Answer": "Enteric-coated",
+  "B": "Transdermal",
+  "C": "Enteric-coated",
+  "D": "Buccal",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "A substance that is often used to sub coat tablet is",
+  "A": "Sugar",
+  "Answer": "Shellac",
+  "B": "Carnauba wax",
+  "C": "Shellac",
+  "D": "Sodium stearate",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Rat-holing phenomena relates with",
+  "A": "Poor flow of granules",
+  "Answer": "Poor flow of granules",
+  "B": "Filling of capsules",
+  "C": "Maintaining the flow of granules",
+  "D": "Increase the flow of granules",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Z-value, a term used in sterilization, indicates",
+  "A": "Temperature co-efficient of microbial destruction",
+  "Answer": "Temperature co-efficient of microbial destruction",
+  "B": "Rate of microbial destruction",
+  "C": "The number of microbes surviving in the loads",
+  "D": "Time to increase to achieve 100% sterility",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Which compound is a natural emulsifying agent ?",
+  "A": "Acacia",
+  "Answer": "Acacia",
+  "B": "Lactose",
+  "C": "Polysorbate-20",
+  "D": "Sorbitan monopalmitate",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Rectal suppositories intended for adult use usually weigh approximately",
+  "A": "1g",
+  "Answer": "2g",
+  "B": "2g",
+  "C": "3g",
+  "D": "4g",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "A satisfactory suppository base must meet all of the following EXCEPT",
+  "A": "It should have narrow melting range",
+  "Answer": "It should have narrow melting range",
+  "B": "It should be nonirritating and nonsensitizing",
+  "C": "It should be inert",
+  "D": "It should melt below 30 °C",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Dose dumping is a problem in the formulation of",
+  "A": "Compressed tablets",
+  "Answer": "Modified-release drug products",
+  "B": "Modified-release drug products",
+  "C": "Soft gelatin capsules",
+  "D": "Suppositories",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "What equation describes the rate of drug dissolution from tablets ?",
+  "A": "Fick’s law",
+  "Answer": "Noyes Whitney equation",
+  "B": "Noyes Whitney equation",
+  "C": "Law of mass action",
+  "D": "Michaelis-Menten equation",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "The loading dose (DL) of a drug is usually based on the",
+  "A": "Total body clearance(ClT) of the drug",
+  "Answer": "Apparent volume of distribution(VD) & desired drug concentration of plasma",
+  "B": "Percentage of drug bound to plasma proteins",
+  "C": "Apparent volume of distribution(VD) & desired drug concentration of plasma",
+  "D": "Area under the plasma drug concentration versus time curve(AUC)",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "The principle of superposition in designing multiple-dose regimens assumes that",
+  "A": "Each dose affects the next subsequent dose, causing nonlinear elimination",
+  "Answer": "Early doses of drug do not affect subsequent doses",
+  "B": "Early doses of drug do not affect subsequent doses",
+  "C": "The fraction of drug absorbed is equal to the fraction of drug eliminated",
+  "D": "Each dose of drug eliminated by zero-order elimination",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "A type of flow in which viscosity increases when the substance is agitated in",
+  "A": "Plastic",
+  "Answer": "Dilatant",
+  "B": "Pseudoplastic",
+  "C": "Dilatant",
+  "D": "Thixotropic",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "As per GMP permitted limit of solid content in water for injection is",
+  "A": "100 ppm",
+  "Answer": "10 ppm",
+  "B": "1 ppm",
+  "C": "10 ppm",
+  "D": "0.1 ppm",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Which of the following radionuclides is most commonly used in nuclear pharmacy practice ?",
+  "A": "67Ga",
+  "Answer": "99mTc",
+  "B": "99mTc",
+  "C": "133Xe",
+  "D": "123I",
+  "Image": 1,
+  "Explaination": 1
+ }
+]
